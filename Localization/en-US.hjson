@@ -1,0 +1,15 @@
+Mods: {
+	AAMod: {	
+		
+		
+		BiomeName: {
+			InfernoSurfaceBiome: The Inferno
+			InfernoUndergroundBiome: Underground Inferno
+			MireSurfaceBiome: The Mire
+			MireUndergroundBiome: Underground Mire
+			RedMushSurfaceBiome: Red Mushland
+			RedMushUndergroundBiome: Underground Red Mushland
+			VoidBiome: The Void
+		}
+	}
+}

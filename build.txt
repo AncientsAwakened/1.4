@@ -1,0 +1,13 @@
+﻿displayName = Ancients Awakened
+author = AA Development Team
+
+homepage = https://forums.terraria.org/index.php?threads/ancients-awakened-work-in-progress.79606/
+version = 0.1
+
+hideCode = false
+hideResources = false
+
+includeSource = true
+includePDB = true
+
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, Assets\Effects\Compiler\*
